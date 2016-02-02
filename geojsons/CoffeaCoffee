@@ -1,0 +1,21 @@
+{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "Coffea Coffee",
+        "Address": "Queen Victoria Market, 519-521 Elizabeth St, Melbourne VIC 3000",
+        "Review": "sells Porlex coffee grinder",
+        "Contributor": "mariaamb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.95744079351425,
+          -37.80724525135953
+        ]
+      }
+    }
+  ]
+}
